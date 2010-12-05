@@ -148,7 +148,7 @@ public class Wallpaper extends Activity implements AdapterView.OnItemSelectedLis
     private class ImageAdapter extends BaseAdapter {
         private LayoutInflater mLayoutInflater;
 
-        ImageAdapter(wallpaper context) {
+        ImageAdapter(Wallpaper context) {
             mLayoutInflater = context.getLayoutInflater();
         }
 
