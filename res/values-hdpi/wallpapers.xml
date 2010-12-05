@@ -18,6 +18,7 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_pink</item>
+        <item>wallpaper_gray</item>
         <item>wallpaper_blue</item>
         <item>wallpaper_acid</item>
     </string-array>
