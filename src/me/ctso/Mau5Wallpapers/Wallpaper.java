@@ -39,7 +39,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 
 
-public class wallpaper extends Activity implements AdapterView.OnItemSelectedListener,
+public class Wallpaper extends Activity implements AdapterView.OnItemSelectedListener,
         OnClickListener {
 
     private Gallery mGallery;
