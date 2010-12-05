@@ -19,6 +19,6 @@ include $(CLEAR_VARS)
 
 LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
-LOCAL_PACKAGE_NAME := CMWallpapers
+LOCAL_PACKAGE_NAME := Mau5Wallpapers
 
 include $(BUILD_PACKAGE)
